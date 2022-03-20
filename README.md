@@ -1,5 +1,4 @@
-# Banking-app-project
-
+# Banking-app-project 
 * Functionality of the application *
 
 1. The user has the option to log in to two different accounts:
