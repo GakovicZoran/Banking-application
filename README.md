@@ -12,4 +12,4 @@
    There is also the possibility to delete the user account and,
    at the bottom of the application there is a sort button that allows descending sorting of changes to the account.
 
-   After 2 minutes of using the application, the current user account is automatically logged out.
+   After 5 minutes of using the application, the current user account is automatically logged out.
